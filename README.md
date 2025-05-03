@@ -1,6 +1,6 @@
 # 📊 Тестове завдання: Junior Data Analyst
 
- **Автор:** Yana Grytsiyenko [https://www.linkedin.com/in/yanakoziuchenko/]
+ **Автор:** [Yana Grytsiyenko] (https://www.linkedin.com/in/yanakoziuchenko/)
 
  **Опис:**  
 Цей репозиторій містить рішення трьох завдань з тестового кейсу на позицію Junior Data Analyst.  
